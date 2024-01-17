@@ -7,8 +7,8 @@ In this project, I engineered a custom script designed to execute a targeted tcp
 <h2>Shell Script</h2>
 
 <b>sudo tcpdump -#XXtttt host skyroute66.com -w captured.pcap -C 1 -G 600</b>
-- <b>tcpdump</b> 
-- <b>Shell Scripting</b>
+- <b>(XX) hexadecimal</b> 
+- <b>(tttt) </b>
 - <b>Visual Code Studio</b>
 - <b>Wireshark</b>
 

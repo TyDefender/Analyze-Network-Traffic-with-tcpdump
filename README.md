@@ -8,9 +8,10 @@ In this project, I engineered a custom script designed to execute a targeted tcp
 
 <b>sudo tcpdump -#XXtttt host skyroute66.com -w captured.pcap -C 1 -G 600</b>
 - <b>(XX) hexadecimal</b> 
-- <b>(tttt) </b>
-- <b>Visual Code Studio</b>
-- <b>Wireshark</b>
+- <b>(tttt) timestamp</b>
+- <b>(-w) write</b>
+- <b>(-C) Limits the size in megabytes</b>
+- <b>(-G) Limits the time in seconds</b>
 
 <h2>Tools Used</h2>
 

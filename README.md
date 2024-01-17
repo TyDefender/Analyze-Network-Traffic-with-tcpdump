@@ -2,9 +2,7 @@
 
 <h2>Description</h2>
 In this project, I engineered a custom script designed to execute a targeted tcpdump for a specific host. The script was carefully crafted with the incorporation of distinct variables, enhancing the interpretability of the captured data. I made the script executable through the integrated terminal, leveraging the power of the chmod command. The culmination of this process involved capturing a concise set of 10 packets, followed by the seamless upload of the resulting file to Wireshark for in depth analysis and insights. This endeavor showcased a systematic approach to network data capture and analysis, underlining the synergy between custom scripting and powerful tools like Wireshark.
-
-<br />
-
+<br/>
 
 <h2>Tools Used</h2>
 
